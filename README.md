@@ -1,12 +1,4 @@
-# Indeed Job Scraper
+# Amazon Product Details Scraper
 
-Scrape 300 job listings per role from the popular employment website Indeed to find jobs for following
-roles in India.
-• Data Engineer
-• Data Analyst
-• Data Scientist
-• Machine Learning Engineer
-You therefore will need to extract the job title, company, location, salary, etc., from each
-job listing.
 
-The scraper scrapes all the info and returns the desired dataframe.
+This scraper takes details from user about which product they want, what category, reviews above how many stars, the brand they want and the price range. Then it returns the dataframe containing the products fulfilling all these details.
